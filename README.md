@@ -1,7 +1,7 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://github.com/evanandrian/evanandrian//blob/main/EA.jpg" 
-   alt="evanandrian banner" />
+  <img src="https://github.com/evanandrian/evanandrian//blob/main/logo_ea.png" 
+   alt="evanandrian" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Evan Andrian</h1>
