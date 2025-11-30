@@ -1,7 +1,7 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/evanandrian/evandrian /main/logo_ea.png" 
-   alt="evanandrian" />
+  <img src="https://raw.githubusercontent.com/evanandrian/evanandrian/main/logo_ea.png" 
+   alt="evanandrian" width="800" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Evan Andrian</h1>
@@ -19,6 +19,7 @@
 ---
 
 ### 🛠 Tech Stack
+
 #### **Languages & Frameworks**
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" />
@@ -48,12 +49,12 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://streak-stats.demolab.com?user=evanandrian&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=evanandrian&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanandrian&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanandrian&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -62,6 +63,8 @@
 #### 🔥 POS
 Description singkat project.  
 👉 Repo: https://github.com/evanandrian/ea_pos
+
+<!-- Bisa tambahkan project lain di bawah ini -->
 
 ---
 
