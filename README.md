@@ -1,6 +1,7 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://github.com/evanandrian/evanandrian/blob/main/header.png" alt="evanandrian banner" />
+  <img src="https://github.com/evanandrian/evanandrian/EA.jp" 
+   alt="evanandrian banner" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Evan Andrian</h1>
@@ -13,7 +14,7 @@
 - 🚀 Full Stack & Mobile Development  
 - 🧩 Love solving real-world problems through clean architecture  
 - 🌱 Currently exploring: **DevOps, Microservices, and Scalable Systems**  
-- 📫 Contact me: **evanandrian@gmail.com**  
+- 📫 Contact me: **efanandrian555@gmail.com**  
 
 ---
 
@@ -45,7 +46,7 @@
 
 ---
 
-### 📊 GitHub Stats (Dark Mode)
+### 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=evanandrian&theme=tokyonight" />
@@ -58,13 +59,13 @@
 ---
 
 ### 🚀 Highlight Projects
-#### 🔥 Project 1 — (Ganti Nama)
+#### 🔥 POS
 Description singkat project.  
-👉 Repo: https://github.com/evanandrian/(repo)
+👉 Repo: https://github.com/evanandrian/ea_pos
 
-#### ⚡ Project 2 — (Ganti Nama)
+<!-- #### ⚡ Project 2 — (Ganti Nama)
 Description singkat project.  
-👉 Repo: https://github.com/evanandrian/(repo)
+👉 Repo: https://github.com/evanandrian/(repo) -->
 
 ---
 
