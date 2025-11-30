@@ -1,6 +1,6 @@
 <!-- Header / Banner -->
 <p align="center">
-  <img src="https://github.com/evanandrian/evanandrian//blob/main/logo_ea.png" 
+  <img src="https://github.com/evanandrian/evanandrian/main/logo_ea.png" 
    alt="evanandrian" />
 </p>
 
@@ -48,13 +48,15 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api?username=evanandrian&show_icons=true&theme=tokyonight" />
+
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=evanandrian&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evanandrian&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-git-masterorgs-projects.vercel.app/api/top-langs/?username=evanandrian&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
